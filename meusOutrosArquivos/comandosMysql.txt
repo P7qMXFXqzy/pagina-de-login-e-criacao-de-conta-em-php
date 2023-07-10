@@ -1,0 +1,6 @@
+CREATE DATABASE telalogin;
+USE telalogin;
+CREATE TABLE usuarios (nome VARCHAR(255) NOT NULL, senha VARCHAR(255) NOT NULL);
+INSERT INTO usuarios VALUES ("arnaldo", "r2o9LgM#$c");
+INSERT INTO usuarios VALUES ("luan", "M!D@mO*D5H");
+INSERT INTO usuarios VALUES ("frederico", "hhx2vçSEy&");

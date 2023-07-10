@@ -1,0 +1,57 @@
+#logo{
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+
+.camposInserirDados{
+    position:absolute;
+    left:510px;
+    width:300px;
+    height:30px;
+    font-size:20px;
+}
+#campoUsuario{
+    top:200px;
+}
+#campoSenha{
+    top:300px;
+}
+.textosCampos{
+    position:Absolute;
+    font-size:20px;
+}
+#textoUsuário{
+    top:185px;
+    left:430px;
+}
+#textoSenha{
+    top:285px;
+    left:445px;
+}
+#botaoFazerLogin{
+    position:absolute;
+    width:130px;
+    height:60px;
+    background-color:rgb(0,0,255);
+    color:white;
+    font-family:"Roboto";
+    font-size:20px;
+    top:400px;
+    left:600px;
+    border-style:solid;
+    border-width:2px;
+}
+#botaoFazerLogin:active{
+    top:405px;
+}
+#botaoCriarConta{
+    position:absolute;
+    background-color:white;
+    color:rgb(0,0,255);
+    left:610px;
+    top:500px;
+}
+#botaoCriarConta:active{
+    top:505px;
+}
