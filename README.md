@@ -10,5 +10,5 @@ demonstração de login:
 ![login2](https://github.com/P7qMXFXqzy/pagina-de-login-e-criacao-de-conta-em-php/assets/139146483/ce106b41-3e52-45bf-ada5-3ed227a31b95)
 
 demonstração de criação de conta:
-![novaConta2](https://github.com/P7qMXFXqzy/pagina-de-login-e-criacao-de-conta-em-php/assets/139146483/54ca30bb-25c2-4b8d-9100-0d1524a354fb)
 ![novaConta1](https://github.com/P7qMXFXqzy/pagina-de-login-e-criacao-de-conta-em-php/assets/139146483/89f77306-bf68-439f-b444-ff04680cebda)
+![novaConta2](https://github.com/P7qMXFXqzy/pagina-de-login-e-criacao-de-conta-em-php/assets/139146483/54ca30bb-25c2-4b8d-9100-0d1524a354fb)
